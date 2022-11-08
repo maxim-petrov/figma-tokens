@@ -1,1 +1,1 @@
-# figma-tokens
+# Figma Tokens
